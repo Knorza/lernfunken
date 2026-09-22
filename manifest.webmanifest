@@ -1,0 +1,10 @@
+{
+  "name": "Lernfunken",
+  "short_name": "Lernfunken",
+  "description": "Lokale Karteikarten-App zum Lernen.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#3154c7",
+  "icons": [{ "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
